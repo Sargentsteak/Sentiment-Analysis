@@ -7,4 +7,6 @@ To find which machine learning model is best suited to predict sentiment (output
 5.  To make this project beginner friendly you only have to predict whether a movie review is positive or negative.
 6.  This is known as binary text classification because there are only two possible outcomes.
 
+Data set : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 
